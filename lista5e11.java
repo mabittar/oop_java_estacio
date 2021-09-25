@@ -9,6 +9,6 @@ public class lista5e11 {
         for (int i = 1; i <= num; i++){
             System.out.printf(" %d x %d= %d \n", i, num, i*num);
         }
-        
+        leia.close();
     }
 }
